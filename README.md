@@ -1,8 +1,13 @@
 # Imersão Java
 
-## 📐 Projeto
+## 📐 Projeto: Alura Sticker
 
-Alura Sticker projeto para criar stickers de capas de filmes. 
+Projeto para criar stickers de capas de filmes. Foram feitas duas implementações:
+
+- [Java](https://github.com/alexfelipe/imersao-java/tree/java)
+- [Kotlin](https://github.com/alexfelipe/imersao-java/tree/kotlin)
+
+> A implementação em Kotlin, provavelmente, será a mais completa.
 
 ## 📝 Aulas
 
